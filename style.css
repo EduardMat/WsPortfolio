@@ -3,6 +3,13 @@ body {
 }
 
 h1 {
-  color: blue;
+  color:white;
 }
+header {
+    
+    background-color: rgb(29, 138, 138);
+    height: 300px;
+    
+}
+
 
